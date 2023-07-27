@@ -104,7 +104,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Joji Babu Gorantla [jojibabu1043@gmail.com]
 
 My LinkedIn
-[shubhamlondhe1996](https://www.linkedin.com/in/jojibabu/) 
+[Jojibabu](https://www.linkedin.com/in/jojibabu/) 
 
 My LinkedIn
 Project Link:
