@@ -1,7 +1,7 @@
 pipeline {
     agent { label "Todo-app" }
     stages{
-        stage("Todo-app"){
+        stage("Cloneing the code"){
             steps{
                 git url: "https://github.com/jojibab/node-todo-cicd.git", branch: "master"
             }
