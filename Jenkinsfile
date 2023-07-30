@@ -1,5 +1,5 @@
 pipeline {
-    agent { label "Todo-app" }
+    agent any 
     stages{
         stage("Cloneing the code"){
             steps{
